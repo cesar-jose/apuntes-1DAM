@@ -1,2 +1,2 @@
-# Apuntes de 1º DAM
-Repositorio de apuntes y ejercicios de los módulos de 1º Desarrollo de Aplicaciones Multiplataforma.
+# Apuntes de 1Âº DAM
+Repositorio de apuntes y ejercicios de los mÃ³dulos de 1Âº Desarrollo de Aplicaciones Multiplataforma.
